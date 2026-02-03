@@ -342,7 +342,7 @@
 
         footer {
             background-color: #333;
-            color: white;
+            color: black;
             text-align: center;
             padding: 2rem 0;
             margin-top: 2rem;
